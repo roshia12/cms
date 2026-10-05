@@ -1,8 +1,6 @@
 packages:
   - core
   - preview
-  - docs
-  - screenshots
   - shared
 
 allowBuilds:
