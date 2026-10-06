@@ -1,3 +1,5 @@
+from sqlalchemy import create_engine
+from models.task import Base
 from flask import Flask
 app = Flask(__name__)
 @app.route("/")
